@@ -1,1 +1,1 @@
-# SociallyIntelligentRobotics
+# Socially Intelligent Robotics
