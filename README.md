@@ -1,6 +1,5 @@
-# Group-22
+# Rock-Paper-Scissors NAO Robot Experiment
 
-## Rock-Paper-Scissors Robot Experiment
 The Rock-Paper-Scissors Robot Experiment is an interactive project where users engage in a series of games with different robot personalities. The game involves playing rock, paper, scissors with various robot characters, each exhibiting distinct personalities such as neutral, supportive, and competitive.
 
 To interact with the robot, participants use signs with bright colors: red for rock, blue for paper, and green for scissors.
